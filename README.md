@@ -2,4 +2,4 @@
 
 ## Releasing March 2024! 
 
-## [Recommended Resume template](https://www.overleaf.com/read/gzgzrpszyzyg)
+## [Resume template](https://www.overleaf.com/read/gzgzrpszyzyg)
