@@ -1,7 +1,7 @@
 # Best Behavioral Interview Resources 
 
-## Fundamental Concepts
-- [Behavorial Interview by Tech Interview Handbook](https://www.techinterviewhandbook.org/behavioral-interview/)
+## Interview Resources
+- [Behavorial Interview Overview](https://www.techinterviewhandbook.org/behavioral-interview/)
 
 ## [Resume template](https://www.overleaf.com/read/gzgzrpszyzyg)
 
