@@ -8,7 +8,7 @@
 - [Interviewing.io Mock Interviews](https://interviewing.io/)
 - [Levels Offer Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
 
-## [My Resume template](https://www.overleaf.com/read/gzgzrpszyzyg) 
-## [Alt Resume template](https://www.careercup.com/resume)
+## [Resume template](https://www.overleaf.com/read/gzgzrpszyzyg) 
+## [Resume template v2](https://www.careercup.com/resume)
 
 Your Open-Source contributions are appreciated! 
