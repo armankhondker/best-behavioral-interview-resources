@@ -12,6 +12,8 @@
 - [Levels Offer Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
 - [How To Negotiate Your Tech Salary](https://www.youtube.com/watch?v=fyn0CKPuPlA) 
 
+## Interview Tracking
+- [Job Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1qG6kfzu5GQB4X3ULpCA7CE32dC4PrOKZ4YHMa2xz6RY/edit#gid=0)
 
 ## [Resume template](https://www.overleaf.com/read/gzgzrpszyzyg) 
 ## [Resume template v2](https://www.careercup.com/resume)
