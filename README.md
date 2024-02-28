@@ -10,7 +10,11 @@
 
 ## Offer Negotation
 - [Levels Offer Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
-- [How To Negotiate Your Tech Salary](https://www.youtube.com/watch?v=fyn0CKPuPlA) 
+- [How To Negotiate Your Tech Salary](https://www.youtube.com/watch?v=fyn0CKPuPlA)
+
+## Interview Questions
+- [30 Behavorial questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+- [Best Final Questions to Ask](https://www.techinterviewhandbook.org/final-questions/)
 
 ## Interview Tracking
 - [Job Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1qG6kfzu5GQB4X3ULpCA7CE32dC4PrOKZ4YHMa2xz6RY/edit#gid=0)
