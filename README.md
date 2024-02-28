@@ -8,7 +8,7 @@
 - [Interviewing.io Mock Interviews](https://interviewing.io/)
 - [Levels Offer Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
 
-- ## Offer Negotation
+## Offer Negotation
 - [Levels Offer Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
 - [How To Negotiate Your Tech Salary](https://www.youtube.com/watch?v=fyn0CKPuPlA) 
 
